@@ -29,6 +29,8 @@
 
 # 3:SOURCEFILE, DESTDIR
 3:TDProps.version,GameData/TDProps
+3:README.md,GameData/README.md
+
 
 9:Extras
 
